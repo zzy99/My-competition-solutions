@@ -185,9 +185,9 @@ m = 1.000 为可忽略误差
 
 评估指标： 
 
-![img](https://pic2.zhimg.com/v2-15581377dd539a04ee02919cbc52cdd1_b.gif)
+![img](assets/v2-15581377dd539a04ee02919cbc52cdd1_b.gif)
 
-![img](https://pic4.zhimg.com/v2-3cb6e688b72efbffb2afd24e15517f17_b.gif)
+![img](assets/v2-3cb6e688b72efbffb2afd24e15517f17_b.gif)
 
 方案：
 
