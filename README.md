@@ -201,7 +201,7 @@ m = 1.000 为可忽略误差
 
 成绩：银牌（119）
 
-地址：https://www.kaggle.com/c/siim-isic-melanoma-classificatio
+地址：https://www.kaggle.com/c/siim-isic-melanoma-classification
 
 类型：图像+分类
 
