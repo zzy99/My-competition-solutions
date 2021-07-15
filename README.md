@@ -2,7 +2,7 @@
 
 **全球校园AI算法精英大赛——基于多模型迁移预训练文章质量判别**
 
-成绩：目前第一
+成绩：
 
 地址：[2020 DIGIX GLOBAL AI CHALLENGE](https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.html#/preliminary/info/005/introduction)
 
