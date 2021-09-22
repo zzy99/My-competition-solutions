@@ -1,3 +1,20 @@
+**chaii - Hindi and Tamil Question Answering**
+
+2021.8-2021.11
+
+成绩：目前奖金区
+
+地址：[chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering)
+
+类型：文本+问答
+
+任务：In this competition, your goal is to predict answers to real questions about Wikipedia articles. You will use chaii-1, a new question answering dataset with question-answer pairs. The dataset covers Hindi and Tamil, collected without the use of translation.
+评估指标：Jaccard score
+
+方案：传统的阅读理解题目，但是是多语言。
+
+------
+
 **第二届“马栏山杯”国际音视频算法大赛——正式赛——音乐节拍检测**
 
 2021.6-2021.7
