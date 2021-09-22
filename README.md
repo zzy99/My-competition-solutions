@@ -9,6 +9,7 @@
 类型：文本+问答
 
 任务：In this competition, your goal is to predict answers to real questions about Wikipedia articles. You will use chaii-1, a new question answering dataset with question-answer pairs. The dataset covers Hindi and Tamil, collected without the use of translation.
+
 评估指标：Jaccard score
 
 方案：传统的阅读理解题目，但是是多语言。
