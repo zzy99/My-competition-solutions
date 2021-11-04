@@ -1,3 +1,21 @@
+**Google Brain - Ventilator Pressure Prediction**
+
+2021.9-2021.11
+
+成绩：金牌（6）
+
+地址：[Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction)
+
+类型：时间序列
+
+任务：In this competition, you’ll simulate a ventilator connected to a sedated patient's lung. The best submissions will take lung attributes compliance and resistance into account.
+
+评估指标：MAE
+
+方案：https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/285282
+
+------
+
 **chaii - Hindi and Tamil Question Answering**
 
 2021.8-2021.11
