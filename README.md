@@ -6,7 +6,7 @@
 
 地址：[Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction)
 
-类型：时间序列
+类型：时间序列+回归
 
 任务：In this competition, you’ll simulate a ventilator connected to a sedated patient's lung. The best submissions will take lung attributes compliance and resistance into account.
 
