@@ -20,7 +20,7 @@
 
 2021.8-2021.11
 
-成绩：目前奖金区
+成绩：金牌（4）
 
 地址：[chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering)
 
@@ -30,7 +30,7 @@
 
 评估指标：Jaccard score
 
-方案：传统的阅读理解题目，但是是多语言。
+方案：https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/discussion/287911
 
 ------
 
