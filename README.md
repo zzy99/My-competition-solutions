@@ -1,3 +1,21 @@
+**NBME - Score Clinical Patient Notes**
+
+2022.2-2022.5
+
+成绩：金牌（7）
+
+地址：[NBME - Score Clinical Patient Notes](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes)
+
+类型：NER/QA
+
+任务：In this competition, you’ll identify specific clinical concepts in patient notes. Specifically, you'll develop an automated method to map clinical concepts from an exam rubric (e.g., “diminished appetite”) to various ways in which these concepts are expressed in clinical patient notes written by medical students (e.g., “eating less,” “clothes fit looser”). Great solutions will be both accurate and reliable.
+
+评估指标：micro F1
+
+方案：https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/322829
+
+------
+
 **Google Brain - Ventilator Pressure Prediction**
 
 2021.9-2021.11
