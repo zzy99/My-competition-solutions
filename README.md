@@ -1,3 +1,21 @@
+**U.S. Patent Phrase to Phrase Matching**
+
+2022.3-2022.6
+
+成绩：金牌（2）
+
+地址：[U.S. Patent Phrase to Phrase Matching]([https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching))
+
+类型：文本+回归
+
+任务：In this competition, you will train your models on a novel semantic similarity dataset to extract relevant information by matching key phrases in patent documents. Determining the semantic similarity between phrases is critically important during the patent search and examination process to determine if an invention has been described before.
+
+评估指标：Pearson correlation coefficient
+
+方案：https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/discussion/332234
+
+------
+
 **NBME - Score Clinical Patient Notes**
 
 2022.2-2022.5
