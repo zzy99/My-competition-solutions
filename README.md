@@ -16,6 +16,30 @@
 
 ------
 
+**第三届“马栏山杯”国际音视频算法大赛——邀请赛——语音情感识别**
+
+2022.4-2022.6
+
+成绩：第四
+
+地址：[芒果TV - 算法大赛](https://challenge.ai.mgtv.com/contest/detail/6)
+
+类型：语音+分类
+
+任务：参赛者需以大赛组织方提供的语音数据，进行模型训练，对语音中包含的情感进行识别。
+
+评估指标：准确率
+
+方案：
+
+- 三个分支对频谱、特征、文本进行建模，通过注意力机制进行融合，最后得到分类
+- 频谱图：tf_efficientnetv2_m
+- 特征：单层mlp
+- 文本：hfl/chinese_bert_wwm_ext
+- spec_augment, mixup提升很大
+
+------
+
 **NBME - Score Clinical Patient Notes**
 
 2022.2-2022.5
