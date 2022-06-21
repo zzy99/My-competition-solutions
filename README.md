@@ -4,7 +4,7 @@
 
 成绩：金牌（2）
 
-地址：[U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
+地址：[U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching)
 
 类型：文本+回归
 
