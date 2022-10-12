@@ -195,7 +195,7 @@ m = 1.000 为可忽略误差
 
 评估指标：本次评测任务采用macro F1方法，即对A、B两个文件的label分别计算F1值然后求平均，为最终得分。
 
-方案：
+方案：https://github.com/zzy99/competition-solutions/tree/main/code/sohu
 
 其实这个比赛没那么多花里胡哨的，融合就完事了。有些人吹的天花乱坠的技巧，还比不上换个种子，或者阈值调小个0.01。
 
