@@ -1,3 +1,70 @@
+**Feedback Prize - English Language Learning**
+
+2022.8-2022.11
+
+成绩：银牌（28）
+
+地址：[Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)
+
+类型：文本+回归
+
+任务：The goal of this competition is to assess the language proficiency of 8th-12th grade English Language Learners (ELLs). 
+
+评估指标：MCRMSE, mean columnwise root mean squared error
+
+方案：
+
+- deberta唯一的神
+- 一些有用的技巧：去dropout，fgm，layer wise learning rate decay，使用前两届的top的模型代替mlm
+- 25组模型融合，linear regression确定融合权重
+- 和金牌差了伪标签，可惜了
+
+------
+
+**DFL - Bundesliga Data Shootout**
+
+2022.7-2022.10
+
+成绩：暂定金牌（9）
+
+地址：[DFL - Bundesliga Data Shootout](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout)
+
+类型：视频动作定位
+
+任务：In this competition, you'll detect football (soccer) passes—including throw-ins and crosses—and challenges in original Bundesliga matches. You'll develop a computer vision model that can automatically classify these events in long video recordings.
+
+评估指标：[DFL Event Detection AP](https://www.kaggle.com/code/ryanholbrook/competition-metric-dfl-event-detection-ap)
+
+方案：
+
+- 2.5D模型，左右各4帧，灰度图（不知道为什么灰度图表现远优于RGB）
+- 间隔推理，能减少时间，并有效利用4折模型的互补
+- NMS-1d后处理
+
+------
+
+**第三届“马栏山杯”国际音视频算法大赛——正式赛——无参考视频画质机器评价**
+
+2022.6-2022.8
+
+成绩：第10
+
+地址：[芒果TV - 算法大赛](https://challenge.ai.mgtv.com/contest/detail/17)
+
+类型：视频+分类
+
+任务：参赛者需要以大赛组织方提供的数据集为基础，进行无参考视频画质机器评价（NR-VQA）的算法设计或模型训练。
+
+评估指标：我们以SROCC和PLCC的加权值Score作为衡量指标。大赛组织方鼓励选手方案兼顾计算效率的优化，按推理预测速度做如下奖励性加分。
+
+方案：
+
+- 这个比赛速度加分太多了，因此优化推理速度是主要的方向。那些花里胡哨的VQA模型没什么卵用（有个fast-vqa，所谓的sota，比赛数据上比resnet18低了十个点）
+![image](https://user-images.githubusercontent.com/35061243/205028092-3a7e4b7c-25ed-4730-97f4-cef0916f1a3a.png)
+![image](https://user-images.githubusercontent.com/35061243/205028179-b196de50-9141-4f0d-9e81-877f08dd1b86.png)
+
+------
+
 **U.S. Patent Phrase to Phrase Matching**
 
 2022.3-2022.6
@@ -22,7 +89,7 @@
 
 成绩：第四
 
-地址：[芒果TV - 算法大赛](https://challenge.ai.mgtv.com/contest/detail/6)
+地址：[芒果TV - 算法大赛](https://challenge.ai.mgtv.com/contest/detail/11)
 
 类型：语音+分类
 
