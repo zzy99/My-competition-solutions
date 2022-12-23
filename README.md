@@ -25,7 +25,7 @@
 
 2022.7-2022.10
 
-成绩：暂定金牌（9）
+成绩：金牌（8）
 
 地址：[DFL - Bundesliga Data Shootout](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout)
 
