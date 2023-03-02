@@ -392,7 +392,7 @@ m = 1.000 为可忽略误差
 
 成绩：第一
 
-地址：[“公益AI之星”挑战赛-新冠疫情相似句对判定大赛-天池大赛-阿里云天池](tianchi.aliyun.com/competition/entrance/231776/introduction)
+地址：[“公益AI之星”挑战赛-新冠疫情相似句对判定大赛-天池大赛-阿里云天池](https://tianchi.aliyun.com/competition/entrance/231776/introduction)
 
 类型：文本+分类
 
@@ -400,7 +400,7 @@ m = 1.000 为可忽略误差
 
 评估指标：准确率
 
-方案：[GitHub - zzy99/epidemic-sentence-pair: 天池 疫情相似句对判定大赛 线上第一名方案](github.com/zzy99/epidemic-sentence-pair)
+方案：[GitHub - zzy99/epidemic-sentence-pair: 天池 疫情相似句对判定大赛 线上第一名方案](https://github.com/zzy99/epidemic-sentence-pair)
 
 - 数据扩充
 - 交叉验证
