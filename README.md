@@ -1,3 +1,23 @@
+**Kaggle - LLM Science Exam**
+
+2023.7-2023.10
+
+成绩：金牌（11）
+
+地址：[Kaggle - LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam))
+
+类型：文本+选择题
+
+任务：Inspired by the OpenBookQA dataset, this competition challenges participants to answer difficult science-based questions written by a Large Language Model.
+
+评估指标：Mean Average Precision @ 3 (MAP@3)
+
+方案：
+
+- https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/446660
+
+------
+
 **Feedback Prize - English Language Learning**
 
 2022.8-2022.11
