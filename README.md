@@ -4,7 +4,7 @@
 
 成绩：金牌（11）
 
-地址：[Kaggle - LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam))
+地址：[Kaggle - LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam)
 
 类型：文本+选择题
 
